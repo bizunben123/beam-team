@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Mobile Barbering App
+
+This repository now includes a simple proof of concept for a Dune-inspired mobile barbering platform.
+
+- `backend/` – Node.js + Express + MongoDB API with endpoints for authentication, booking, GPS distance pricing, and subscription management.
+- `mobile/` – React Native (Expo) prototype with screens for Home, Booking, Profile, and Admin Dashboard.
+
+These folders are intentionally lightweight to allow easy expansion into a full production system later.

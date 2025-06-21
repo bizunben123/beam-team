@@ -1,0 +1,12 @@
+{
+  "name": "dune-barber-mobile",
+  "version": "1.0.0",
+  "main": "App.js",
+  "license": "MIT",
+  "dependencies": {
+    "@react-navigation/native": "^6.1.7",
+    "@react-navigation/stack": "^6.3.17",
+    "react": "18.1.0",
+    "react-native": "0.71.8"
+  }
+}
